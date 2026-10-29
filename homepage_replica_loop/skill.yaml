@@ -1,0 +1,5 @@
+name: "homepage_replica_loop"
+title: "Personal homepage replica and iteration loop"
+description: "Replicate a reference site's look into a single file personal homepage and iterate on it from phone feedback, deploying and verifying both live copies."
+category: "Work and knowledge"
+include_in_prompt: false
